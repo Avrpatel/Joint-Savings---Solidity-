@@ -1,1 +1,1 @@
-# Joint-Savings---Solidity-
+# Joint Savings - Solidity
